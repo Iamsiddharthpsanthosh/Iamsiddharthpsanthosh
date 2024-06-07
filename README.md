@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Iamsiddharthpsanthosh
+- 👋 Hi, I’m @Siddharth
 - 👀 I’m interested in developing
 - 🌱 I’m currently learning from scratch
 - 💞️ I’m looking to collaborate on anything which can improve my skill
